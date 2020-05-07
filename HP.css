@@ -1,0 +1,38 @@
+#img1{
+  opacity:60;
+  display:block;
+  height:100%;
+  width:100%;
+  position:absolute;
+  margin-top:-50px;
+}
+#title{
+  height:22%;
+  width:90%;
+  background-color:white;
+  text-align:center;
+  color:seagreen;
+  text-shadow:6px 6px #9cc9ba;
+  font-size:40px;
+  position:relative;
+  top:20px;
+  left:30px;
+  border-radius:10%;
+}
+#text{
+  position:relative;
+  background-color:white;
+  color:#244238;
+  font:sans-serif;
+  font-size:28px;
+  width:45%;
+  margin-left:20px;
+  border-radius:10%;
+  padding:10px;
+}
+#LS{
+  
+}
+#HS{
+  
+}
