@@ -1,6 +1,6 @@
 .background{
  background-color:lightcyan;
- width:1430px;
+ width:100%;
  height:400px;
  position: absolute;
 }
@@ -14,15 +14,17 @@
 
 #div1{
   background-color:green;
-  width:1430px;
+  width:100%;
   height:200px;
   margin-top:-250px;
+  position:absolute;
 }
 
 #div2{
   background-color:darkseagreen;
   width:1430px;
   height:500px;
+  position:absolute;
 }
 
 #div3{
@@ -57,7 +59,7 @@
   margin-left:10px;
 }
 
-#LawnMoving{
+#HardScaping{
   color:blue;
   font-size:50px;
   margin-top:0px;
