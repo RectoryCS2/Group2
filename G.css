@@ -13,23 +13,23 @@
 }
 
 #div1{
-  background-color:steelblue;
+  background-color:green;
   width:1430px;
   height:200px;
   margin-top:-250px;
 }
 
 #div2{
-  background-color:azure;
+  background-color:darkseagreen;
   width:1430px;
   height:500px;
 }
 
 #div3{
-  background-color:darkseagreen;
+  background-color:skyblue;
   width:400px;
   height:300px;
-  border-radius:20%;
+  border-radius:40%;
   Margin-top: -400px;
   margin-left:900px;
 }
@@ -42,38 +42,7 @@
   margin-left:60px;
 }
 
-.p{
- color:pink;
- font-size:34px;
- margin-top:-270px;
- margin-left:920px;
- position:relative;
-}
 
-.p1{
- color:white;
- font-size:24px;
- margin-top:-25px;
- margin-left:920px;
- height:300px;
- width:400px;
-}
-
-.p2{
- color:cadetblue;
- font-size:30px;
- margin-top:-350px;
- margin-left:300px;
-}
-
-
-.p3{
- color:darkblue;
- font-size:30px;
- margin-top:-40px;
- margin-left:300px;
- position:relative;
-}
 
 #homepage{
   color:green;
@@ -81,7 +50,7 @@
   margin-top:00px;
 }
 
-#Gardening{
+#CP{
   color:Purple;
   font-size:50px;
   margin-top:00px;
@@ -94,4 +63,21 @@
   margin-top:0px;
   margin-left:00px;
   position:absolute;
+}
+
+#Gimage{
+  height:250px;
+  width:350px;
+  margin-top:-300px;
+  margin-left:100px;
+  position:absolute;
+}
+
+.GP{
+  position:absolute;
+  color:Lavender;
+  width:370px;
+  height:280px;
+   Margin-top:-200px;
+  margin-left:910px;
 }
