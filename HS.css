@@ -3,8 +3,30 @@
   background-color:lightcyan;
 }
 
-#m1{
-  
+#title{
+  height:24%;
+  width:97%;
+  background-color:white;
+  text-align:center;
+  color:seagreen;
+  text-shadow:6px 6px #9cc9ba;
+  font-size:40px;
+  position:relative;
+  top:20px;
+  left:30px;
+  border-radius:10%;
+}
+
+.text{
+  background-color:white;
+  color:#244238;
+  font:sans-serif;
+  text-align:center;
+  font-size:34px;
+  height:55px;
+
+  left:20px;
+  display:block;
 }
 
 .link{
@@ -18,10 +40,18 @@
   height:50px;
   margin-top:20px;
   border-radius:10%;
+  margin-left:10px;
   left:20px;
   display:block;
+  float:right;
 }
 
 .imgs{
   width:70%;
+}
+
+#logo{
+  height:80px;
+  width:80px;
+  margin-left:60px;
 }
