@@ -1,13 +1,9 @@
-#img1{
-  opacity:60;
-  display:block;
-  height:100%;
-  width:100%;
+#bg{
+background-color:lightcyan;
   position:absolute;
-  margin-top:-50px;
 }
 #title{
-  height:22%;
+  height:24%;
   width:90%;
   background-color:white;
   text-align:center;
@@ -30,9 +26,24 @@
   border-radius:10%;
   padding:10px;
 }
-#LS{
+#G{
   
 }
 #HS{
   
+}
+
+.link{
+  position:relative;
+  background-color:white;
+  color:#244238;
+  font:sans-serif;
+  text-align:center;
+  font-size:30px;
+  width:300px;
+  height:50px;
+  margin-top:20px;
+  border-radius:10%;
+  left:20px;
+  display:block;
 }
