@@ -26,11 +26,20 @@ background-color:lightcyan;
   border-radius:10%;
   padding:10px;
 }
-#G{
-  
+
+#m1{
+  width:40%;
+  display:block;
+  margin-top:-360px;
+  margin-left:730px;
 }
-#HS{
-  
+
+#logo{
+  position:relative;
+  height:180px;
+  width:180px;
+  top:-220px;
+  left:380px;
 }
 
 .link{
