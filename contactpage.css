@@ -1,6 +1,6 @@
 .background{
  background-color:lightcyan;
- width:1430px;
+ width:100%;
  height:400px;
  position: absolute;
 }
@@ -88,10 +88,34 @@
   margin-left:10px;
 }
 
-#LawnMoving{
+#HardScaping{
   color:blue;
   font-size:50px;
   margin-top:0px;
   margin-left:00px;
+  position:absolute;
+}
+
+#cpic1{
+   height:150px;
+  width:250px;
+  margin-top:-400px;
+  margin-left:-180px;
+  position:absolute;
+}
+
+#cpic2{
+   height:150px;
+  width:150px;
+  margin-top:-400px;
+  margin-left:100px;
+  position:absolute;
+}
+
+#cpic3{
+   height:150px;
+  width:250px;
+  margin-top:-400px;
+  margin-left:300px;
   position:absolute;
 }
